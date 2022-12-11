@@ -1,11 +1,15 @@
 # Assessment: funddata-assement
-# Author: Regina Fennessy
 
 
-Introduction :
+Author: Regina Fennessy
+
+
+## Introduction :
+
 This repository will discuss the excerises giving in relation to 
- Information
- Randomness
+1. Information
+2. Randomness
+3. Bias - Refers to a tendancy of a person to lean towards a paticular factor either against or for something
 
 
 ## Setup
@@ -32,3 +36,6 @@ This repository will discuss the excerises giving in relation to
 
 
 ## References:
+
+- https://positivepsychology.com/cognitive-biases/
+- https://studiousguy.com/bias-examples-in-real-life/
