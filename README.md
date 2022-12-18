@@ -12,6 +12,7 @@ Author: Regina Fennessy
 - Juptyer Notebook : Randomness
 - Juptyer Notebook : Bias
 - Juptyer Notebook : Outliers
+- Juptyer Notebook : Data Cleansing
 
 -------------------------------------------------------------------------------------------------------------
 
@@ -31,6 +32,7 @@ This repository will discuss the excerises giving in relation to
 2. Randomness
 3. Bias - Refers to a tendancy of a person to lean towards a paticular factor either against or for something
 4. Outliers
+5. Data Cleansing
 
 
 
