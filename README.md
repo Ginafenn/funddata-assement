@@ -53,3 +53,4 @@ This repository will discuss the excerises giving in relation to:
 - https://en.wikipedia.org/wiki/Normal_distribution
 - https://www.statisticshowto.com/probability-and-statistics/statistics-definitions/mean-median-mode/
 - https://www.investopedia.com/terms/n/normaldistribution.asp
+- https://bobbyhadz.com/blog/python-remove-non-alphanumeric-characters-from-string#:~:text=sub()%20method%20to%20remove,replacing%20them%20with%20empty%20strings.
