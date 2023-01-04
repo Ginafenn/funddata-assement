@@ -22,6 +22,8 @@ Author: Regina Fennessy
 - Numpy is a Python programming language used for working with arrays
 - Matplotlib library is used for creating static and interative visualisations
 - Random module defines a series of functions for generating random intergers
+- re is a built in package from python to work with regular expressions
+- urllib.request is a built in package from python to work with regular expressions
 
 --------------------------------------------------------------------------------------------------------------
 
